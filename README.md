@@ -1,6 +1,6 @@
 # 简介
 
-**L**ightweight **E**nterprise **A**rchitecture **D**esign **Me**thod（轻量级企业架构设计方法），简称：**LEADMe**。主要基于Thoughtworks中国区CTO徐昊先生所创造的软件工程系列理论，是一种云原生时代的现代化企业架构设计方法，相比其他的企业架构设计方法，其特点是：易学习、易操作、易于落地，且**可被渐进式采用**。
+**轻量级企业架构设计方法**（**L**ightweight **E**nterprise **A**rchitecture **D**esign **Me**thod，简称：**LEADMe），**主要基于Thoughtworks中国区CTO徐昊先生所创造的软件工程系列理论，是一种云原生时代的现代化企业架构设计方法，相比其他的企业架构设计方法，其特点是：易学习、易操作、易于落地，且**可被渐进式采用**。
 
 本方法主要由以下几个部分组成：
 
