@@ -1,4 +1,4 @@
 # Table of contents
 
-* [LEADMe](README.md)
+* [Lightweight Enterprise Architecture Design Method](README.md)
 
