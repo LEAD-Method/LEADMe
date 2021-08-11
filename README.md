@@ -18,15 +18,7 @@ LEADMe基于软件开发和软件系统架构的第一性原理，聚焦于知�
 >
 >—— *ISO/IEC/IEEE 42010:2011*
 
-LEADMe旨在利用业内元思想一致且经证明有效的现代化思想、方法及实践，通过紧密集成而非重复发明轮子的方式来解决问题。这些思想包含且不限于：
-
-* Cynefin Framework
-* Cloud Native
-* Extreme Programming
-* DevOps
-* 8X Flow
-* SELLE
-* Team Topologies
+LEADMe旨在利用业内元思想一致且经证明有效的现代化思想、方法及实践，通过实践验证的紧密集成而非重复发明轮子的方式来解决问题。
 
 LEADMe主要由以下几个部分组成，每个部分可被渐进式采用：
 
